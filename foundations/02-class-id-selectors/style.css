@@ -9,6 +9,12 @@ p.three{
 
 div.two{
 	color:blue;
-	font-size: 36px
+	font-size: 36px;
+}
+
+div.four{
+	font-weight:bold;
+	background-color:lightgreen;
+	font-size:24px;
 }
 
