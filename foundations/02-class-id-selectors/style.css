@@ -1,0 +1,9 @@
+p {
+	font-family:"Verdana","DejaVu Sans",sans-serif;
+	background-color:rgb(255, 192, 203)
+}
+
+p.three{
+	font-size: 20px
+}
+
