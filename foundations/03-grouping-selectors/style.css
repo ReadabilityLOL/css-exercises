@@ -4,7 +4,7 @@
 }
 
 .clickmeinstead{
-    color: hsl(60,100%,50%,1);
+    background-color: hsl(60,100%,50%,1);
 }
 
 button{
