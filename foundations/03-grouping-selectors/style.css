@@ -1,0 +1,13 @@
+.clickme{
+    color: rgb(255,255,255);
+    background-color: #000;
+}
+
+.clickmeinstead{
+    color: hsl(60,100%,50%,1);
+}
+
+button{
+    font-family: 'Helvetica','Times New Roman', sans-serif;
+    font-size: 28px;
+}
