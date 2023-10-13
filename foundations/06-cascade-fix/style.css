@@ -4,7 +4,7 @@ body {
 
 .para,
 .small-para {
-  color: hsl(0, 0%, 0%);
+  color: hsl(0, 100%, 50%);
   font-weight: 800;
 }
 
@@ -14,11 +14,11 @@ body {
 }
 
 .para {
-  font-size: 22px;
+  font-size: 32px;
 }
 
 .confirm {
-  background: green;
+  background-color: green;
   color: white;
   font-weight: bold;
 } 
@@ -32,7 +32,7 @@ body {
 .child {
   color: rgb(0, 0, 0);
   font-weight: 800;
-  font-size: 14px;
+  font-size: 22px;
 }
 
 div.text {
